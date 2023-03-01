@@ -8,4 +8,5 @@ dependencies:
   - pip
   - pip:
     - vpnotebook
+    - vpython
     - matplotlib_venn
