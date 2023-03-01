@@ -7,4 +7,5 @@ dependencies:
   - statsmodels
   - pip
   - pip:
+    - vpnotebook
     - matplotlib_venn
