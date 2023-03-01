@@ -1,6 +1,6 @@
 # Interactive apps from Jupyter Notebooks
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/test_json_appmode/master?urlpath=apps%2Findex.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/appmode_plus/master?urlpath=apps%2Findex.ipynb)
 
 This repository demonstrates how to create interactive webapps from a Jupyter Notebook.
 This is similar to how Shiny apps work in R.
